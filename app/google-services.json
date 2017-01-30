@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72700847200",
+    "firebase_url": "https://deep-link.firebaseio.com",
+    "project_id": "deep-link",
+    "storage_bucket": "deep-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72700847200:android:1de393d51ff6fbdb",
+        "android_client_info": {
+          "package_name": "dalton.android.deeplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72700847200-r1avd405msu5tv09odef20ud5dfmg1c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dalton.android.deeplink",
+            "certificate_hash": "B0D66A2AED1E32C2C1B82BD7E27916755E912631"
+          }
+        },
+        {
+          "client_id": "72700847200-l15rrltq7je5r09n8n6he2mebk79gpmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4sret7EsnL1zCGggSfP0jnYmZOI9Hjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72700847200-l15rrltq7je5r09n8n6he2mebk79gpmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
